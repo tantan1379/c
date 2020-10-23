@@ -1,0 +1,2 @@
+F:\C++\homework_1_3\Debug\homework_1_3.exe
+F:\C++\homework_1_3\Debug\homework_1_3.pdb

@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\C++\homework2\源.cpp(67,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\C++\homework2\源.cpp(19,12): warning C4101: “k”: 未引用的局部变量
+  homework2.vcxproj -> F:\C++\homework2\Debug\homework2.exe

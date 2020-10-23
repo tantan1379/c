@@ -1,0 +1,2 @@
+F:\C++\struct_test\Debug\struct_test.exe
+F:\C++\struct_test\Debug\struct_test.pdb

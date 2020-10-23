@@ -1,0 +1,2 @@
+F:\C++\pointer_test\Debug\pointer_test.exe
+F:\C++\pointer_test\Debug\pointer_test.pdb

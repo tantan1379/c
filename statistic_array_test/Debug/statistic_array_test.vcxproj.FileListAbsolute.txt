@@ -1,0 +1,2 @@
+F:\C++\statistic_array_test\Debug\statistic_array_test.exe
+F:\C++\statistic_array_test\Debug\statistic_array_test.pdb
